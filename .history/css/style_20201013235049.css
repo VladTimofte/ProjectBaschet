@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+.body-section{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #262626;
+    line-height: 22px;
+    background-color: #FCFCFC;
+    position: relative;
+
+}
+.head{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+h2{
+background-color:#ececed;
+padding-top:30px; 
+padding-left: 10px;
+padding-bottom: 20px;
+margin-bottom: 40px;
+}

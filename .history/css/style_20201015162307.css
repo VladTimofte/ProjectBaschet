@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+.body-section{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #262626;
+    line-height: 22px;
+    background-color: #FCFCFC;
+    position: relative;
+    text-align: justify;
+    margin-bottom: 50px;
+
+}
+h2{
+text-transform: uppercase;
+background-color:#fdfdfd;
+font-size:25px;
+padding-top:5px; 
+padding-left: 10px;
+padding-bottom: 5px;
+
+border-bottom: 3px solid #f78a58;
+margin-bottom: 20px;
+width: 280px;
+
+}
+
+h3{
+margin-top: 20px;
+border-bottom: 3px solid #f78a58;
+font-size: 20px;
+border-bottom: 1.5px solid rgba(80, 78, 78, 0.1);
+}
+
+.table{
+    background-color:#ececed ;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.tabs{
+
+    margin-top:10px ;
+    margin-bottom: 20px;
+}
+.nav-tabs li a{
+  color: #262626;   
+}
+.nav-tabs li a:hover{
+    color: #f78a58;
+}
+.nav .nav-link.active {
+    color:  #f78a58;
+    margin-bottom: 1px;
+    border-bottom-color: #f78a58;
+}
+.card{
+    margin-top: 20px;
+    height: 200px;
+    width: 18rem;
+    margin-bottom: 20px;
+}

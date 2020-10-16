@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+.body-section{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #262626;
+    line-height: 22px;
+    background-color: #FCFCFC;
+    position: relative;
+
+}
+.head{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.head-despreFederatie{
+background-color:#ececed;
+padding-top:20px; 
+padding-bottom: 20px;
+margin-bottom: 20px;
+
+
+}

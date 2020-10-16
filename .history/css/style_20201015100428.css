@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+.body-section{
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #262626;
+    line-height: 22px;
+    background-color: #FCFCFC;
+    position: relative;
+
+}
+h2{
+background-color:#ececed;
+font-size:25px;
+padding-top:20px; 
+padding-left: 10px;
+padding-bottom: 20px;
+margin-bottom: 40px;
+font-weight: 300;
+text-transform: uppercase;
+}
+
+h3{
+margin-top: 20px;
+border-bottom: 1px solid rgba(0, 0, 0, .1);
+margin-bottom: 1.125em;
+font-size: 20px;
+font-weight: 400;
+}
+
+.table{
+    background-color:#ececed ;
+    margin-bottom: 0.2px;
+}
+.tabs{
+    margin-bottom:10px ;
+}
+.nav-tabs li a{
+  color: #262626;   
+}
+.nav-tabs li a:hover{
+    color: #f8eae4;
+    background-color: black;
+}
